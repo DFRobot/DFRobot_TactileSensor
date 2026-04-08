@@ -28,7 +28,7 @@ The tactile sensor is a device that can convert physical contact, pressure or fo
 
 ## Installation
 
-Download the library file (https://github.com/DFRobot/DFRobot_TactileSensor) and its dependencies (https://github.com/DFRobot/DFRobot_RTU) before use, paste them into the \Arduino\libraries directory, then open the sample folder and run the demo in the folder.
+Download the library file (https://github.com/DFRobot/DFRobot_TactileSensor.git) and its dependencies (https://github.com/DFRobot/DFRobot_RTU.git) before use, paste them into the \Arduino\libraries directory, then open the sample folder and run the demo in the folder.
 
 ## Methods
 
