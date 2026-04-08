@@ -4,9 +4,9 @@
  * @copyright   Copyright (c) 2025 DFRobot Co.Ltd (http://www.dfrobot.com)
  * @license     The MIT License (MIT)
  * @author [JiaLi](zhixinliu@dfrobot.com)
- * @version  V1.0
+ * @version  V1.0.0
  * @date  2025-09-04
- * @url https://github.com/cdjq/DFRobot_TactileSensor
+ * @url https://github.com/DFRobot/DFRobot_TactileSensor.git
  */
 #ifndef DFRobot_TactileSENSOR_H
 #define DFRobot_TactileSENSOR_H
